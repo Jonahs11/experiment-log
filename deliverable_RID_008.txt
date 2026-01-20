@@ -1,0 +1,36 @@
+commit 814c04f8c22460ac145f3384327fd5f0a200aecc
+Merge: 92cc8d3 52959eb
+Author: Jasmine Wiese <jawiese@ucsd.edu>
+Date:   Tue Jan 20 21:34:59 2026 +0000
+
+    Merge branch 'master' of https://github.com/Jonahs11/experiment-log
+    
+    Our first attempt at pair programming.
+
+commit 92cc8d306c8d240a0a9397aa216dca8a5cb21a8f
+Author: Jasmine Wiese <jawiese@ucsd.edu>
+Date:   Tue Jan 20 21:21:17 2026 +0000
+
+    Added Jasmine's message to the note
+
+commit 52959ebc36c97d853fbcd4b5aebb581f60edc4f6
+Author: root <jonahsilverman11@gmail.com>
+Date:   Tue Jan 20 21:21:13 2026 +0000
+
+    Jonah comit RID_008
+
+commit a21f26cab719cb036b5fad213e1ee2f44b441484
+Author: Jonahs11 <65677667+Jonahs11@users.noreply.github.com>
+Date:   Tue Jan 20 12:57:05 2026 -0800
+
+    Edit notes.txt to include new information
+    
+    Added additional content to notes.txt
+
+commit ec7d616ec66987797425e06e01c1cc4e28fce1aa
+Author: root <jonahsilverman11@gmail.com>
+Date:   Tue Jan 20 20:55:25 2026 +0000
+
+    Added a new file notes.txt to the repo.
+origin	https://github.com/Jonahs11/experiment-log.git (fetch)
+origin	https://github.com/Jonahs11/experiment-log.git (push)
