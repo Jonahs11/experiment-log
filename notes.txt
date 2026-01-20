@@ -1,4 +1,5 @@
 This is a new text file
 
+I am your pair programming partner, Jasmine! 
 
 This is an edit from the browser of github.
